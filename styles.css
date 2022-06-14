@@ -16,7 +16,6 @@ body {
     height: 100%;
     width: 100%;
 }
-
 /*Selectores globales*/
 button {
     padding: 20%;
@@ -27,12 +26,10 @@ button {
     cursor: pointer;
 
 }
-
 input {
     padding: 20%;
     border-radius: 5px;
 }
-
 div {
     align-items: center;
     margin: 3%;
@@ -41,7 +38,6 @@ div {
     justify-content: center;
     flex-direction: column;
 }
-
 form {
 
     display: flex;
@@ -49,8 +45,6 @@ form {
     justify-content: center;
     flex-direction: column;
 }
-
-
 /*Selectores de clase*/
 .button2 {
     padding: 0%;
@@ -69,7 +63,6 @@ form {
     height: 20%;
 
 }
-
 .div1 {
     background-color: rgb(146, 204, 255);
     border-radius: 10px;
@@ -80,11 +73,9 @@ form {
     height: 525px;
     display: block;
 }
-
 .div2 {
     width: 20%;
 }
-
 .p2 {
     color: rgb(255, 255, 255);
     font-size: 200%;
