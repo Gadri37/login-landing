@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Pacifico', cursive;
+    src: url(https://fonts.googleapis.com/css2?family=Pacifico&display=swap);
+}
+
+body {
+    background-color: #7a7a7acb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+/*Selectores globales*/
+button {
+    padding: 20%;
+    width: 450%;
+    border-radius: 6px;
+    background-color: rgb(26, 19, 70);
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+
+input {
+    padding: 20%;
+    border-radius: 5px;
+}
+
+div {
+    align-items: center;
+    margin: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+/*Selectores de clase*/
+.button2 {
+    padding: 0%;
+    width: 120%;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+}
+
+.imguser {
+    border-radius: 100%;
+    border: 10px;
+    border-color: black;
+    width: 60%;
+    height: 20%;
+
+}
+
+.div1 {
+    background-color: rgb(146, 204, 255);
+    border-radius: 10px;
+    border: 7px solid rgb(205, 205, 250);
+    box-shadow:-1em 0 1.4em rgb(70, 70, 67);
+    padding: 1%;
+    width: 30%;
+    height: 525px;
+    display: block;
+}
+
+.div2 {
+    width: 20%;
+}
+
+.p2 {
+    color: rgb(255, 255, 255);
+    font-size: 200%;
+    font-family: 'Pacifico', cursive;
+}
+
+/*Selectores Id*/
