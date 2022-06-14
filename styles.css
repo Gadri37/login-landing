@@ -16,6 +16,7 @@ body {
     height: 100%;
     width: 100%;
 }
+
 /*Selectores globales*/
 button {
     padding: 20%;
@@ -24,7 +25,7 @@ button {
     background-color: rgb(26, 19, 70);
     color: aliceblue;
     cursor: pointer;
-    
+
 }
 
 input {
@@ -42,7 +43,7 @@ div {
 }
 
 form {
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -73,7 +74,7 @@ form {
     background-color: rgb(146, 204, 255);
     border-radius: 10px;
     border: 7px solid rgb(205, 205, 250);
-    box-shadow:-1em 0 1.4em rgb(70, 70, 67);
+    box-shadow: -1em 0 1.4em rgb(70, 70, 67);
     padding: 1%;
     width: 30%;
     height: 525px;
@@ -89,5 +90,3 @@ form {
     font-size: 200%;
     font-family: 'Pacifico', cursive;
 }
-
-/*Selectores Id*/
